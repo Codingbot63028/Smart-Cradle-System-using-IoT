@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"SERVO2",1," Micro Servo"
+"U1",1," Arduino Uno R3"
+"R1",1,"1 kΩ Resistor"
+"U2",1," Temperature Sensor [TMP36]"
+"PIEZO1",1," Piezo"
+"SEN1",1," Soil Moisture Sensor"
+"S2, S3",2," Slideswitch"
